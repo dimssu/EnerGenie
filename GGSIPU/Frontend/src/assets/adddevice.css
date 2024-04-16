@@ -1,0 +1,14 @@
+#add-device-screen{
+    padding: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+#add-device-input{
+    width: 100%;
+    padding: 5% 2%;
+    margin: 1%;
+    border-radius: 20px;
+    margin: 5% 0;
+}
